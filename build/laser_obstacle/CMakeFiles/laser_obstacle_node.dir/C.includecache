@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/catkin_agv/src/laser_obstacle/src/jetsonGPIO.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+unistd.h
+-
+fcntl.h
+-
+poll.h
+-
+jetsonGPIO.h
+/home/nvidia/catkin_agv/src/laser_obstacle/src/jetsonGPIO.h
+

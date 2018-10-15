@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/get_multiecho.dir/current/samples/get_multiecho.c.o  -o /home/nvidia/catkin_agv/devel/lib/urg_c/get_multiecho -rdynamic /home/nvidia/catkin_agv/devel/lib/libopen_urg_sensor.so /home/nvidia/catkin_agv/devel/lib/libliburg_c.so -lrt -lm -Wl,-rpath,/home/nvidia/catkin_agv/devel/lib: 

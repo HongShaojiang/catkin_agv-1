@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/devel
+
+Name: drivertest
+Description: Description of drivertest
+Version: 0.1.0
+Cflags: -I/home/nvidia/catkin_agv/src/drivertest/include
+Libs: -L/home/nvidia/catkin_agv/devel/lib 
+Requires: roscpp std_msgs dgvmsg

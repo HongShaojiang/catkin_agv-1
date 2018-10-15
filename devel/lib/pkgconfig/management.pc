@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/devel
+
+Name: management
+Description: Description of management
+Version: 0.0.0
+Cflags: -I/home/nvidia/catkin_agv/src/management/include
+Libs: -L/home/nvidia/catkin_agv/devel/lib -lmanagement -ldgvmsg
+Requires: 

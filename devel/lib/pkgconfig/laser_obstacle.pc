@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/devel
+
+Name: laser_obstacle
+Description: Description of laser_obstacle
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nvidia/catkin_agv/devel/lib 
+Requires: 

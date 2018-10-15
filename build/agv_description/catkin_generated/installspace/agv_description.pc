@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/install
+
+Name: agv_description
+Description: Description of agv_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/catkin_agv/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/devel
+
+Name: camera_basler
+Description: Description of camera_basler
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nvidia/catkin_agv/devel/lib 
+Requires: 

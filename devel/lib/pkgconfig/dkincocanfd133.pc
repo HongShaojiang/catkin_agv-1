@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/devel
+
+Name: dkincocanfd133
+Description: Description of dkincocanfd133
+Version: 0.0.0
+Cflags: -I/home/nvidia/catkin_agv/src/dkincocanfd133/include
+Libs: -L/home/nvidia/catkin_agv/devel/lib -ldkincocanfd133 -ldgvmsg -lrobot2015_common
+Requires: 

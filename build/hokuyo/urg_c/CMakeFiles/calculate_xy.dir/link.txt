@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/calculate_xy.dir/current/samples/calculate_xy.c.o  -o /home/nvidia/catkin_agv/devel/lib/urg_c/calculate_xy -rdynamic /home/nvidia/catkin_agv/devel/lib/libopen_urg_sensor.so /home/nvidia/catkin_agv/devel/lib/libliburg_c.so -lrt -lm -Wl,-rpath,/home/nvidia/catkin_agv/devel/lib: 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/joyde_node.dir/src/joyrecvtest.cpp.o CMakeFiles/joyde_node.dir/src/joystick.cpp.o CMakeFiles/joyde_node.dir/src/joysubnode.cpp.o  -o /home/nvidia/catkin_agv/devel/lib/joyde/joyde_node -rdynamic 

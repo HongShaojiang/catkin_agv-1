@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_agv/install
+
+Name: joyde
+Description: Description of joyde
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nvidia/catkin_agv/install/lib 
+Requires: 

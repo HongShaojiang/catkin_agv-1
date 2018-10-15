@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/catkin_agv/src/zmq_ros/src/proxy_center.cpp
+iostream
+-
+sstream
+-
+string
+-
+cppzmq-master/zmq.hpp
+/home/nvidia/catkin_agv/src/zmq_ros/src/cppzmq-master/zmq.hpp
+

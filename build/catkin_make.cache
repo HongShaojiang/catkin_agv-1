@@ -1,0 +1,2 @@
+agv_bringup:agv_description:agv_navigation:agv_slam:apriltags_ros-indigo-devel/apriltags:apriltags_ros-indigo-devel/apriltags_ros:camera_basler:dgvmsg:dkincocanfd133:drivertest:hokuyo/driver_common/driver_base:hokuyo/driver_common/driver_common:hokuyo/driver_common/timestamp_tools:hokuyo/laser_proc:hokuyo/urg_c:hokuyo/urg_node:ins_xna200:joyde:laser_obstacle:management:robot2015_common:zmq_ros
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/nvidia/catkin_agv/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/catkin_agv/install
